@@ -11,13 +11,3 @@ Pesquisa acadêmica sobre as demandas do setor de TI no Brasil em 2025. Inclui a
 ## 📎 Acesso ao Relatório
 
 O relatório completo está disponível em PDF neste repositório. Recomendo a leitura para quem deseja se preparar para os desafios e oportunidades do setor nos próximos anos.
-
-## 📬 Contato
- 
-🔗 [LinkedIn: linkedin.com/in/maiara](https://www.linkedin.com/in/maiara)
-
----
-
-## 🏷️ Hashtags
-
-#PesquisaAcadêmica #TI2025 #MercadoDeTrabalho #TecnologiaDaInformação #TransformaçãoDigital #CarreiraEmTI #MaiaraPublica #LinkedInTech #Inovação #SoftSkills #HardSkills #EngenhariaDeSoftware #CiênciaDeDados
